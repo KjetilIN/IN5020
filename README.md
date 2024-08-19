@@ -1,0 +1,3 @@
+# IN5020 – Distributed Systems
+
+The course is an introduction to principles and practice of the design of distributed systems. The course covers fundamental models for distributed systems, distributed middleware with the focus on object-based middleware and component-based architectures, distributed algorithms for consensus and other underlying problems, and modern-day challenges of distributed processing technology such as cloud, multimedia and IoT. 
