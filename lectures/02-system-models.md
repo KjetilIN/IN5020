@@ -95,3 +95,20 @@ Asynchronous DB => each step can take an unknown amount of time.
 Logical clocks describe logic ordering of events even without accurate clocks
 - A -> B : A happened before B
 - Happened-before relationship
+
+
+
+
+
+# Book notes (Chapter 2 System Models)
+
+- 3 types of models that arise from all DS.
+- They seem to have a lot in common, and patterns emerge from them
+
+**Heterogeneity:** System heterogeneity refers to the presence of differences in hardware, configuration, resources, and operating systems among computing units within a distributed system.
+
+- Three types of communication entities: objects, components and web-services. 
+
+- Three types of communication paradigms: interprocess communication, remote invocation and indirect communication 
+- One type of Remote method invocation (RMI) is one way to do invocation, but also RPC (Remote procedure calls). RMI is connected to distributed objects, while RPC has hidden details from the user. 
+  - In common they both represent a two-way communication between sender and receiver, with explicit direction towards the receiver.  
