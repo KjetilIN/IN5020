@@ -74,4 +74,22 @@
 
 ### Multicast and its effects on communication abstraction
 
-.........
+- Can be considered a paradigm 
+- Makes complicated communication abstractions even more complicated
+- Challenges:
+  - No standard protocol => IP multicast is not always available  
+
+
+Different approaches:
+- Emulate multicast by unicast 
+- Overlay-based multicast 
+- Epidemic or gossip-based dissemination
+
+
+Overlay-based:
+- Organize the destination nodes in network graph => overlay 
+- Maintain network by monitor links, failures, joins and leaves
+- Works because of links and small-world-phenomenon => will be able to find the shortest routing path
+
+Gossip based:
+https://highscalability.com/gossip-protocol-explained/
