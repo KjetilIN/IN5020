@@ -63,7 +63,6 @@ Circular routing: Correct but efficient:
 - ...
 
 
-
 Routing algorithm: using the routing table:
 - Improves performance with routing table 
 - Mapping between IP addresses and GUID prefixes 
