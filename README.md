@@ -20,4 +20,5 @@ The course is an introduction to principles and practice of the design of distri
 
 ## Mandatory Assignments: 
 
--[RMI Distributed system simulation (johannjfig/IN5020-A1)](https://github.com/johannjfig/IN5020-A1)
+- [RMI Distributed system simulation (johannjfig/IN5020-A1)](https://github.com/johannjfig/IN5020-A1)
+- [Distributed System for a Replicated Bank Account (johannjfig/IN5020-A2)](https://github.com/johannjfig/IN5020-A2)
