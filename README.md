@@ -16,7 +16,7 @@ The course is an introduction to principles and practice of the design of distri
 - Peer-to-peer systems
 - Mobile and ubiquitous computing
 - Distributed multimedia systems
-- Cloud, IoT, etc.
+- Cloud, Blockchain, IoT, etc.
 
 ## Mandatory Assignments: 
 
