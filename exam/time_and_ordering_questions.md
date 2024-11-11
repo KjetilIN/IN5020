@@ -31,7 +31,7 @@ Which mutual exclusion algorithms have we gone through?
 Which distributed leader election algorithms have we gone through?
 - The bully algorithm
 - Ring- based algorithm
-- (paxos in later lecture)
+- Paxos 
 
 What are the requirements for a distributed leader election algorithm?
 
